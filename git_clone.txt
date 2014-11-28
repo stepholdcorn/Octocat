@@ -1,1 +1,1 @@
-Explain what git clone does
+Creates a local copy of an existing Git repository
