@@ -1,1 +1,1 @@
-Explain what a branch is
+A branch allows the user to write code independent of the main project, so it is useful for writing new features that can then be merged back into the main project
